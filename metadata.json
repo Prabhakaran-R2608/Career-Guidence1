@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "An AI-powered career guidance, placement preparation, resume analyzer, coding practice, and mock interview platform with collaborative study and task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
